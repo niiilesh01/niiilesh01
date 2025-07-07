@@ -8,8 +8,7 @@
 ## 🔧 Tech Stack
 
 ### 💻 Programming Languages  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white)
 
