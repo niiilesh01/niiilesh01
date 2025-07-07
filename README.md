@@ -23,8 +23,8 @@
 
 ## 💼 Internships
 
-- **Full Stack Developer Intern** – *CollegeTips.in* (2024)  
-- **Backend Developer Intern** – *Zidio Development* (2025)
+- **Full Stack Developer Intern** – *CollegeTips.in* (2025)  
+- **Full Stack Developer Intern** – *Zidio Development* (2025)
 
 ---
 
