@@ -63,5 +63,5 @@ Job portal with email verification, dashboard, CRUD ops, and Pytest integration.
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-borse-eng)  
-[![Email](https://img.shields.io/badge/-nileshborse.official@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nileshborse298@gmail.com)
+[![Email](https://img.shields.io/badge/-nileshborse298@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nileshborse298@gmail.com)
 
