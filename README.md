@@ -4,6 +4,14 @@
 💻 Full-Stack Developer | Firebase & Django Enthusiast  
 
 ---
+## 👨‍💻 About Me
+### Hey there! I'm Nilesh Borse — a curious and creative Full-Stack Developer currently pursuing my B.Tech in Computer Science at NMIMS University (2022–2026).
+
+I love turning ideas into functional products. From building an AI-powered Trip Planner to a customizable Resume Builder and a feature-rich Django Job Portal, I'm always experimenting with new tools and frameworks. I enjoy working across the full stack with technologies like React, Node.js, Firebase, MongoDB, and Django.
+
+Outside of projects, you'll often find me diving into DSA, exploring API integrations, or contributing to hackathons. I’m passionate about clean code, good UI/UX, and building apps that actually help people.
+
+Always up for collaborating on cool ideas or just geeking out over tech—feel free to connect! 🚀
 
 ## 🔧 Tech Stack
 
