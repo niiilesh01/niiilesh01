@@ -5,7 +5,7 @@
 
 ---
 ## 👨‍💻 About Me
-### Hey there! I'm Nilesh Borse — a curious and creative Full-Stack Developer currently pursuing my B.Tech in Computer Science at NMIMS University (2022–2026).
+Hey there! I'm Nilesh Borse — a curious and creative Full-Stack Developer currently pursuing my B.Tech in Computer Science at NMIMS University (2022–2026).
 
 I love turning ideas into functional products. From building an AI-powered Trip Planner to a customizable Resume Builder and a feature-rich Django Job Portal, I'm always experimenting with new tools and frameworks. I enjoy working across the full stack with technologies like React, Node.js, Firebase, MongoDB, and Django.
 
